@@ -3,7 +3,7 @@ This repository contains examples how to use Oracle Functions.
 
 | Repo/Folder name  | Description |
 | ------------- | ------------- |
-| [db-sample-schemas](https://github.com/oracle/db-sample-schemas) | Git submodule of the Oracle Database Sample Schemas |
+| [functions](https://github.com/ecsj/oracle/tree/master/functions) | Functions |
 
 
 ## Documentation
